@@ -1,0 +1,9 @@
+1) Ben - http://www.comp.nus.edu.sg/~bleong/ 										} NUS - 22/09/16                       	Transition 
+2) Giovanni Pau - http://web.cs.ucla.edu/~gpau/Giovanni_Paus_Home_Page/Home.html	} UCLA - 23/09/16, 29/09/16			  	No
+3) Nick Feamster - http://www.cs.princeton.edu/~feamster/							} Princeton - 26/09/16, 30/09/16		No
+4) Adrian Perrig - http://www.netsec.ethz.ch/people/aperrig/						} ETH - 27/09/16						Yes but later
+5) Peter Marbach - http://www.cs.toronto.edu/~marbach/index.html					} Toronto - 27/09/16					No
+6) Lee - http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ebslee } NTU - 30/06/16	No
+7) Aaron - http://findanexpert.unimelb.edu.au/display/person9194#tab-publications	} University of Melbourne - 30/09/16	No
+8) Shueng - http://home.cse.ust.hk/~gchan/											} HKUST - 1/10/16						No
+9) katerina - https://people.epfl.ch/katerina.argyraki								} EPFL - 1/10/16						No

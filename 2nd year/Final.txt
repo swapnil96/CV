@@ -1,0 +1,101 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+\moderncvtheme[blue]{classic} 
+\usepackage[utf8]{inputenc}  %Windows 
+
+%\usepackage[scale=0.975]{geometry}
+\usepackage[top=0.5cm, bottom=0.5cm, left=0.5cm, right=0.5cm]{geometry}
+\usepackage{graphicx}
+
+\firstname{Swapnil}
+\familyname{Das}
+\title{Sophomore B.Tech student}         
+\address{SD-18, Kumaon House}{IIT Delhi, New Delhi, 110016}
+\mobile{+91 7065158520}
+%\phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\homepage{http://www.cse.iitd.ac.in/~cs1150263/}
+\email{cs1150263@iitd.ac.in} 
+%\fax{Votre Fax}                      
+\extrainfo{}
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+\usepackage{multibib}
+\newcites{book,misc}{{Books},{Others}}                        
+\begin{document}
+\maketitle
+\section{Academic Details}
+\cventry{2015--2019}{Bachelor Of Technology In Computer Science Engineering}{\newline Indian Institute of Technology Delhi}{}{\textit{CPI -- 8.588}}{}
+\cventry{2015}{CBSE AISSCE}{\newline Hope Hall Foundation School, Delhi}{}{\textit{Percentage -- 95.8\%}}{}
+\cventry{2013}{CBSE AISSE}{\newline Jawahar Navodaya Vidyalaya, Assam}{}{\textit{CPI -- 10}}{} 
+
+
+\section{Projects}
+\subsection{Course Projects}
+\cventry{August - Present}{Mobile Phone Tracking}{Under Prof. Amitabha Bagchi}{CSE, IIT Delhi}{}{{\begin{itemize}\item{Developed a multithreaded model in Java to replicate real life mobile tracking  in a area.}
+\item{Analysed the Two-way-Radio system of connection.}\end{itemize}}}
+\cventry{July - August, 2016}{Multithreading Stock Exchange}{Under Prof. Amitabha Bagchi}{CSE, IIT Delhi}{}{{\begin{itemize}
+\item{Implemented a mutithreaded model of stock exchange and profit is calculated using 3 different threads.}
+\item{Data from a file was processed but in real time using threads.}\end{itemize}}}
+\subsection{Independent Projects} 
+\cventry{May - July, 2016}{Peer-to-peer networking}{Python}{Sockets}{ Link - https://github.com/swapnil96/P2P-chat}{
+{\begin{itemize}
+\item{Created a P2P service where multiple clients log into a central server and eventually connect to other clients.}
+\item{Server authenticates and manages multiple chat sessions. }
+\item{Analysed crowding and high bandwidth consumption in network by connecting 8 systems simultaneously.}\end{itemize}}}
+\cventry{April - May, 2016}{Applications of Brute Force Technique}{Python}{Link - https://github.com/swapnil96/Brute-Force}{}{{\begin{itemize}
+\item{Implemented Backtracking alogrithm to solve Peg-soltaire, Sudoku solver, Magic-square finder.}
+\item{Measured the limit of brute force on a system of 2.4Ghz Intel i7 quad core processor.}\end{itemize}}}
+\cventry{March - July, 2016}{Personal Website}{HTML5}{CSS3, Javascript}{}{{\begin{itemize}
+\item{Created my own website using Bootstrap framework and jquery.}\end{itemize}}}
+%\cventry{Jan - Feb, 2016}{GUI of Depth First Search}{Python}{Tkinter.Link - https://github.com/swapnil96/Miscellaneous/blob/master/maze.py}{}{Implemented Python Tkinter module to make a maze where a solution is found from start to end using DFS.}
+\section{Relevant Courses}
+\cvline{Completed}{Introduction To Computer Science, Introduction To Electrical Engineering, Calculus, Linear
+Algebra and Differential Equations, Electromagnetic Waves and Quantum Mechanics, Introduction
+To Chemistry, Chemistry Laboratory, Physics Laboratory, Engineering Mechanics.}
+\cvline{Currently Pursuing}{Data Structures and Algorithms, Discrete Mathematical Structures, Digital Logic and System Design, Probability and Stochastic Processes, Principles of Electronic Materials, Environmental Science.}
+\cvline{Online}{CS-50}
+
+\section{Technical Skills}
+\cvline{Languages}{Python, Java, C++, C, VHDL}
+\cvline{Web Dev}{HTML, CSS3, Javascript, Bootstrap(framework)}
+\cvline{Backend}{MySql, Django(module), Socket(module)}
+\cvline{App Dev}{Android Studio, Visual Studio}
+\cvline{Softwares}{GIT, Xilinx ISE suite, Autodesk Inventor, LATEX, MS office}
+
+
+\section{Scholastic Achievements}
+\cvline{2015}{Secured All India Rank \textbf{28}(category) and 2666(open) in JEE-Advance, 2015 among \textbf{0.15 Million} candidates.}
+\cvline{2015}{Secured All India Rank \textbf{17}(category) and 1728(open) in JEE-Main 2015(Joint Engineering Entrance Exam) among \textbf{1.4 million} candidates.}
+\cvline{2015}{Awarded Scholarship of Merit by CBSE for being in \textbf{top 25 among 1 Million} students appearing in AISSCE.}
+%\cvline{2014}{Attended Science Camp at Kolkata(India) organized by \textbf{IISc and IISER}.}
+\cvline{2013}{Fellowship under the prestigious \textbf{Kishore Vaigyanik Protsahan Yojana (KVPY)(Young Scientist Programme)} 2014 conducted by \textbf{IISc Bangalore and Govt. of India.}}
+\cvline{2013}{Awarded Scholarship of Merit by CBSE for being in \textbf{top 27 among 1.3 Million} students appearing in AISSE.}
+\cvline{2013}{Qualified to appear in \textbf{Indian National Mathematics Olympiad(INMO)} conducted by \textbf{Homi Bhabha Centre for Science Education(HBCSE)}.}
+\cvline{2013}{Fellowship under Dakshana foundation for qualifying in GDST conducted by \textbf{HRD ministry Govt. of India}.}
+\cvline{2012}{Qualified \textbf{Regional Mathematics Olympiad(RMO)} conducted by \textbf{Homi Bhabha Centre for Science Education(HBCSE)}.}
+
+\section{Extra Curricular Achievements}
+\subsection{Programming Contest}
+\cvline{Jan 2016}{\textbf{Microsoft Code.Fun.Do Hakathon} - Runners up. Created a game in Visual Studio using C\#}
+\cvline{July 2016}{\textbf{Microsoft Finalist Forum} - Participated online and completed 1st round.}
+\cvline{April 2016}{Qualified Google Code Jam qualifying round.}
+\cvitem{Codeforces}{
+Handle: \textbf{dasswapnil96} \newline{}
+Rating: 1410(\textbf{Specialist})}
+\cvitem{Codechef}{
+Handle: \textbf{dasswapnil96} \newline{}
+Rank: 5584 - Global, 4286 - India}
+\subsection{Others}
+\cvline{2012}{Regional Badminton Player from JNV under Shillong Region.}
+\cvline{2002 - 2009}{Completed a 7 year course in Fine – Arts.}
+
+\section{Position of Responsibility}
+\cvline{2016-17}{Website executive of eDC team, IIT Delhi.}
+
+%\section{References}
+%\cventry{}{Rupam Barman}{IIT Guwahati, Assam, rupam@iitg.ernet.in.}{}
+%{\newline Associate Professor in Mathmetics department IIT Guwahati.}{}
+\end{document}

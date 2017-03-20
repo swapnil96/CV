@@ -1,0 +1,73 @@
+1) A. Kevin Tang - https://people.ece.cornell.edu/atang/                
+2) Rachit Agarwal - http://www.cs.cornell.edu/~ragarwal/                            } CORNELL
+
+1) Biplab Sikdar - https://www.ece.nus.edu.sg/stfpage/bsikdar/
+2) Wee-Seng- Soh - https://www.ece.nus.edu.sg/stfpage/elesohws/
+3) Chan - http://www.comp.nus.edu.sg/~chanmc/
+4) Christina - http://www.comp.nus.edu.sg/~ccris/research.html#publ
+5) Seth - http://www.comp.nus.edu.sg/~gilbert/biblio.html
+6) Ben - http://www.comp.nus.edu.sg/~bleong/	
+7) Teo - http://www.comp.nus.edu.sg/~teoym/    										} National University of Singapore
+
+1) Giovanni - http://web.cs.ucla.edu/~gpau/Giovanni_Paus_Home_Page/Home.html
+2) Mario - http://web.cs.ucla.edu/~gerla/
+3) Rajive - http://www.cs.ucla.edu/rajive-bagrodia/#  								} UCLA
+
+1) Su-lee - http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ebslee
+2) Hsu - http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=HSU&CategoryDescription=Energy
+3) Lim - http://www3.ntu.edu.sg/home/limhb/											} NTU
+
+1) Yih - http://www.ece.illinois.edu/directory/profile/yihchun						
+2) Romit - http://web.engr.illinois.edu/~croy/	
+3) Nitin - http://disc.ece.illinois.edu/publications.php
+4) Network - https://www.ece.illinois.edu/research/networking.asp                   } Illionis ECE
+
+1) Zhang - https://istd.sutd.edu.sg/people/faculty/zhang-meihui			
+2) Jit Biswas - https://istd.sutd.edu.sg/people/faculty/jit-biswas
+3) David - https://istd.sutd.edu.sg/people/faculty/david-yau						} SUTD Singapore
+
+1) Victoria - http://www.its.caltech.edu/~vkostina/#research						
+2) Babak - http://ee.caltech.edu/Babak/		
+3) Steven - http://www.cms.caltech.edu/people/3109/profile							} Caltech
+
+1) Mostafa - http://www.cc.gatech.edu/~ammar/index.html				
+2) Michael - http://mikeb.inta.gatech.edu/
+3) Constantine - http://www.cc.gatech.edu/~dovrolis/		
+4) keith - http://www.cc.gatech.edu/~keith/
+5) Greg - http://www.cc.gatech.edu/~eisen/
+6) Ada - http://www.cc.gatech.edu/~ada/												} Georgia tech
+
+1) Nick - http://www.cs.princeton.edu/~feamster/
+2) Michael - http://www.cs.princeton.edu/~mfreed/
+3) Kyle - http://www.cs.princeton.edu/~kylej/
+4) Larry - https://www.cs.princeton.edu/people/profile/llp
+5) Jennifer - https://www.cs.princeton.edu/people/profile/jrex						} Princeton
+
+1) Donald - http://systems.ethz.ch/people/donald-kossmann
+2) Adrian Perrig - http://www.netsec.ethz.ch/people/aperrig/						} ETH Zurich
+
+1) Eyal - http://www.cs.toronto.edu/~delara/						
+2) Peter - http://www.cs.toronto.edu/~marbach/index.html							} University of Toronto
+
+1) Shanika - http://findanexpert.unimelb.edu.au/display/person18115#tab-publications
+2) Lars - http://lars.kuliks.net/?page_id=24	
+3) Aaron - http://findanexpert.unimelb.edu.au/display/person9194#tab-publications	} University of Melbourne
+
+1) Jean - https://people.epfl.ch/jean-pierre.hubaux		
+2) Matthias - http://icapeople.epfl.ch/grossglauser/
+3) Marcel - http://salathelab.epfl.ch/
+4) Katerina - https://people.epfl.ch/katerina.argyraki								} EPFL
+
+1) Kai - https://www.cse.ust.hk/~kaichen/
+2) Pan - https://www.cse.ust.hk/~panhui/
+3) Bo - http://www.cse.ust.hk/~bli/
+4) Li - https://www.cse.ust.hk/~lixin/#Research
+5) Wei - https://www.cse.ust.hk/~weiwa/
+6) Qian - https://www.cse.ust.hk/~qianzh/research/research.html						
+7) Shueng - https://www.cse.ust.hk/~gchan/											} Hong kong university of Sci and Tech
+
+1) Edward - https://science.iit.edu/people/faculty/edward-chlebus					} IIT
+
+1) Buster - https://www.cs.purdue.edu/homes/bxd/
+2) Sonia - https://www.cs.purdue.edu/homes/fahmy/
+3) Douglas - https://www.cs.purdue.edu/homes/comer/									} Purdue
